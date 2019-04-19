@@ -1,7 +1,7 @@
 package com.Springfield.FirstSample;
 
 public class Customer {
-private int i;
+private int id;
 private String fullName;
 private String email;
 private String phone;
